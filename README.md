@@ -1,0 +1,2 @@
+# website of StashSys Organization
+
