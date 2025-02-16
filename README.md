@@ -1,2 +1,2 @@
-# website of StashSys Organization
+# website of yetdevs Organization
 
